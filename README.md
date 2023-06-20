@@ -12,4 +12,5 @@ A project was undertaken to create prompts for a text-based Dungeons and Dragons
 * For every option I choose in the game, you should roll a dice to determine whether my action is successful.
 * After we create the character, you should ask me to decide which difficulty level I will choose.
 * If I choose to cast a spell, you should ask me which spell I will cast.
-* If I have spell, you should ask me which spell i can remeber and cast ,the max number of i can remeber is 依赖于 my level . 使用Dnd规则来对应等级和记忆的魔法数量
+* If I have spells, you should ask me which spells I can remember and cast. The maximum number of spells I can remember depends on my level. We can use the Dnd rules to correspond the level with the number of spells I can remember.
+* My attributes should influence my personality.
